@@ -32,3 +32,14 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/11tucker11/articles?style=plastic" />
   </a>
 </p>
+
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka110811&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taka110811&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka110811&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka110811&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka110811&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=taka110811&theme=gruvbox)
