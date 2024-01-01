@@ -15,4 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="left">
+  <a href="https://github.com/taka110811">
+    <img height="20" src="https://komarev.com/ghpvc/?username=taka110811" />
+  </a>
+  <a href="https://github.com/taka110811">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/tuckerjuniorml">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tuckerjuniorml/posts.svg" />
+  </a>
+  <a href="http://qiita.com/tuckerjuniorml">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tuckerjuniorml/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/11tucker11">
+    <img height="20" src="https://badgen.org/img/zenn/11tucker11/articles?style=plastic" />
+  </a>
+</p>
